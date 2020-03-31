@@ -2,6 +2,7 @@
 // Functions and structs used to render the enviroment
 // such as cars and the highway
 
+
 #include "render.h"
 
 void renderHighway(double distancePos, pcl::visualization::PCLVisualizer::Ptr& viewer)
