@@ -2,6 +2,7 @@
 // Functions and structs used to render the enviroment
 // such as cars and the highway
 
+
 #ifndef RENDER_H
 #define RENDER_H
 #include <pcl/visualization/pcl_visualizer.h>
