@@ -9,7 +9,6 @@ using Eigen::VectorXd;
 using std::cout;
 using std::endl;
 
-
 /**
  * Initializes Unscented Kalman filter
  */
