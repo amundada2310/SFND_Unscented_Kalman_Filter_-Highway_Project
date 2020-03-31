@@ -5,7 +5,6 @@
 #include "render/render.h"
 #include <pcl/io/pcd_io.h>
 
-
 using Eigen::MatrixXd;
 using Eigen::VectorXd;
 using namespace std;
