@@ -19,4 +19,5 @@ struct Box
 	float y_max;
 	float z_max;
 };
+
 #endif
